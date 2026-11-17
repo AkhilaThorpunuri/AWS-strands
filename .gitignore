@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Secrets & local config
+settings.config
+.env
+.env.*
+
+# Strands local session / state files
+.strands/
+sessions/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
